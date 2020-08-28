@@ -14,7 +14,7 @@
     "express": "4.13.1",
     "fibers": "1.0.15",
     "locks": "0.2.2",
-    "mysql": "2.8.0",
+    "mysql": "2.18.1",
     "orm": "2.1.26",
     "orm-paging": "0.0.1",
     "orm-timestamps": "0.5.2",
